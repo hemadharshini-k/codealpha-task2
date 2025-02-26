@@ -19,7 +19,7 @@ This project is a responsive **Image Gallery** built with **HTML, CSS, and JavaS
 
 ## How to Use
 
-1. Clone the repository from:
+1. Clone the repository from: [https://github.com/hemadharshini-k/codealpha-task2]
 2. Open the `index.html` file in your browser to view and explore the image gallery.
 3. Add your own images to the gallery by updating the image sources in the code.
 
