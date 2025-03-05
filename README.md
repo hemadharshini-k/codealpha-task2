@@ -4,7 +4,7 @@
 
 This project is a responsive **Image Gallery** built with **HTML, CSS, and JavaScript**. It allows users to browse through a collection of high-quality images with a smooth and interactive interface. The gallery is designed to be simple, user-friendly, and visually appealing, offering an optimal viewing experience across different devices.
 
-## Features
+## Features 
 
 - **Responsive layout** that adapts to various screen sizes (desktop, tablet, mobile).
 - **Smooth hover effects** and transitions for an engaging user experience.
